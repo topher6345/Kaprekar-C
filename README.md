@@ -11,7 +11,7 @@ algorithm and tallies the total iterations.
 
 usage:
 
-  kaprekar <int with at least 4 digits>
+  $ kaprekar (int with at least 4 digits)
   
 ============================================
 
