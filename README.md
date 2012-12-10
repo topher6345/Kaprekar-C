@@ -1,4 +1,12 @@
-Kaperkar
+Kaperkar.c
 ========
 
-A simple command line utility to perform the Kaperkar Constant Algorithm and count each iteration.
+topher@tophersaunders.com
+
+A command line program that 
+performs the Kaperkar constant 
+algorithm and tallies the total iterations.
+
+===========================================
+
+http://youtu.be/d8TRcZklX_Q
