@@ -7,6 +7,9 @@ A command line program that
 performs the Kaprekar's constant 
 algorithm and tallies the total iterations.
 
+Watch this video on the Kaprekar algorithm first:
+http://youtu.be/d8TRcZklX_Q
+
 ===========================================
 
 usage:
@@ -34,10 +37,8 @@ sorted highest to lowest: 8532
 sorted lowest to highest: 2358
 8532 - 2358 = 6174
 total iterations to 6174: 3
-
 ========================================
 
 
-http://youtu.be/d8TRcZklX_Q
 
 
