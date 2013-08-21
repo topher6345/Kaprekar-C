@@ -11,14 +11,15 @@ http://youtu.be/d8TRcZklX_Q
 
 
 
-usage:
+####Usage:
 ```bash
-kaprekar (int with at least 4 digits)
+kaprekar (intget with at least 4 digits)
 ```
-####Example
+####Example 
 ```bash
 kaprekar 1234
 ```
+#####Output:
 ```bash
 starting number: 1234 
 sorted highest to lowest: 4321
