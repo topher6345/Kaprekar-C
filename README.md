@@ -13,7 +13,7 @@ http://youtu.be/d8TRcZklX_Q
 
 ####Usage:
 ```bash
-kaprekar (intget with at least 4 digits)
+kaprekar (intger with at least 4 digits)
 ```
 ####Example 
 ```bash
